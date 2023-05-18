@@ -45,3 +45,9 @@ This application can be tested using Insomnia Core or any other API testing tool
 
 ## Questions
 If you have any questions about the repo, open an issue or contact me directly at Mauricio.trevinon91@gmail.com. You can find more of my work at Mauri-tech.
+
+## Author
+
+- Name: Mauricio Trevino
+- Github: [mauri-tech/ecombackend-mauriciotrevino](https://github.com/mauri-tech/ecombackend-mauriciotrevino)
+- Email: mauricio.trevinon91@gmail.com
