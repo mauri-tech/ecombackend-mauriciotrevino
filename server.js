@@ -5,8 +5,8 @@ const routes = require('./routes');
 
 const app = express();
 
-// it can also work with port 3001
-const PORT = process.env.PORT || 3002;
+// it can also work with port 3002
+const PORT = process.env.PORT || 3001;
 const sequelize = require('./config/connection');
 
 app.use(express.json());
