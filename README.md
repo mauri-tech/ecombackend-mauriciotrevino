@@ -8,6 +8,7 @@ This project is a back-end solution for an e-commerce site. It uses Express.js A
 - [Usage](#usage)
 - [License](#license)
 - [Tests](#tests)
+- [Deployed Video](#deployed-video)
 - [Questions](#questions)
 
 ## Installation
@@ -42,6 +43,10 @@ This project is licensed under the MIT license.
 
 ## Tests
 This application can be tested using Insomnia Core or any other API testing tool.
+
+## Deployed Video
+
+- [Watch here](https://watch.screencastify.com/v/i2H7VLDgwnveBRLe3bAu)
 
 ## Questions
 If you have any questions about the repo, open an issue or contact me directly at Mauricio.trevinon91@gmail.com. You can find more of my work at Mauri-tech.
